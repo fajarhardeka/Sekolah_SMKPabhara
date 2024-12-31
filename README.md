@@ -1,2 +1,2 @@
 ## ini adalah repository smk_pabhara
-# uhuy
+Guide tentang projek sekolah
